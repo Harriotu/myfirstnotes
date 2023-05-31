@@ -1,0 +1,23 @@
+{
+  "name": "myfirstnotes",
+  "version": "1.0.0",
+  "description": "a node.js app to create notes using custom cli",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harriotu/myfirstnotes.git"
+  },
+  "keywords": [
+    "notes",
+    "cli"
+  ],
+  "author": "Harriet Otubea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Harriotu/myfirstnotes/issues"
+  },
+  "homepage": "https://github.com/Harriotu/myfirstnotes#readme"
+}
